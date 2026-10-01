@@ -6,7 +6,7 @@
 # **Computational Analysis of Neural Network Architectures and Dropout Regularization for Young's Modulus Prediction of Titanium Alloys**
 #
 # *Notebook associado ao trabalho a ser apresentado no EAMC/LNCC — 2027.*
-#
+# OBS.: TODO O CODE FOI EXECUTADO ORIGINALEMNTE NO GOOGLE COLABORATOY
 # <font color="blue"><b>Objetivos</b></font>:
 # Este estudo consiste em analisar a influência de diferentes arquiteturas de redes neurais artificiais e o efeito da regularização (com e sem Dropout), na predição do módulo de Young de ligas de titânio. O objetivo não é desenvolver novos códigos computacionais para essa finalidade, mas analisar o desempenho preditivo de diferentes arquiteturas e a capacidade de generalização (i.e.,potencial para estimar o módulo de Young para novos dados experimentais), além de evidenciar a importância da Matemática Aplicada no contexto de abordagens orientadas por dados (data driven approach) aplicadas à Engenharia.
 #
